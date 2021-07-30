@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/hhemstreet/.config/nvim'
+let g:netrw_dirhist_2='/Users/hhemstreet/.config'
+let g:netrw_dirhist_1='/Users/hhemstreet/younique'
+let g:netrw_dirhist_0='/Users/hhemstreet/younique/leela/code/admin/webroot/admin3/media/js'
+let g:netrw_dirhist_9='/Users/hhemstreet/younique'
+let g:netrw_dirhist_8='/Users/hhemstreet/php-prep'
+let g:netrw_dirhist_7='/Users/hhemstreet/younique'
+let g:netrw_dirhist_6='/Users/hhemstreet/younique/notes'
+let g:netrw_dirhist_5='/Users/hhemstreet/younique'
+let g:netrw_dirhist_4='/Applications/XAMPP/xamppfiles/htdocs/demo'
